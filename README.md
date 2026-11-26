@@ -131,7 +131,7 @@ DesignAI/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Ayushi-031/DesignAI.git
+git clone https://github.com/chhavigarg17/DesignAI.git
 ```
 
 Move into the project:
@@ -399,7 +399,7 @@ Possible future improvements include:
 
 ### GitHub
 
-https://github.com/Ayushi-031
+https://github.com/chhavigarg17
 
 ---
 
